@@ -1,0 +1,2 @@
+SNPID	OrigianlLDregionStart	OriginalLDregionEnd	length	LD+GeneregionStart	LD+GeneregionEnd	length	No.Genes(transcripts)inRegion	Genes(transcripts)inRegion	NearestGenes(transcripts)inRegion
+rs2301888	100017638145	100017697730	59585	100017634689	100017697730	63041	1	PADI4-NM_012387	PADI4-NM_012387,
